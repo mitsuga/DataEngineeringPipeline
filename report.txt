@@ -1,0 +1,13 @@
+
+DATA ENGINEERING PIPELINE REPORT
+
+Total Employees: 6
+Average Age: 24.00
+Average Salary: 33000.00
+
+Departments:
+Department
+IT         3
+HR         2
+Finance    1
+Name: count, dtype: int64
